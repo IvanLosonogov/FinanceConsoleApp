@@ -5,6 +5,7 @@
 - Maven 3.6+
 ## Сборка и запуск
 mvn clean compile
+
 mvn exec:java -Dexec.mainClass="com.myfinance.Main"
 
 ## Первый запуск
